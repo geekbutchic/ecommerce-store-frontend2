@@ -9,7 +9,7 @@ const Header = () => {
         <Container>
           <LinkContainer to="/">
             <Navbar.Brand>
-              <i className="fab fa-pushed"></i> BENVENUTO A NERO
+              <i className="fab fa-pushed"></i> BENVENUTI A NERO
             </Navbar.Brand>
           </LinkContainer>
 
